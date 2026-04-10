@@ -1,0 +1,4 @@
+date,region,fever,cough,headache,search_trend,outbreak
+2024-02-01,North,1,0,1,0.85,1
+2024-02-02,South,0,1,0,0.6,0
+2024-02-03,North,1,1,1,0.92,1
